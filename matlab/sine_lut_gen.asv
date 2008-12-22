@@ -1,6 +1,0 @@
-phase_width = 10;
-ampl_width = 16;
-
-functionhandle = @s
-
-generate_vhdl_lut(phase_width, ampl_width, functionhandle)
